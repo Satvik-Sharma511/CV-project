@@ -74,7 +74,7 @@ satellite_image_land_classification/
 
 ## Environment Setup
 
-### Option A — Python venv (Recommended)
+### Option A : Python venv (Recommended)
 
 ```bash
 # 1. Clone or download the project
